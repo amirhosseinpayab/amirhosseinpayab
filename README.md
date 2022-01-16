@@ -1,4 +1,4 @@
-Hi, I’m amirhossein payab<br>
-I’m interested in Frontend Developing and React Native<br>
-Now I’m currently learning Frontend developing
+Hi, I’m Amirhossein Payab<br>
+Student of computer science in bachelor :)<br>
+
 
